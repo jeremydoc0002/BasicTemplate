@@ -9,7 +9,6 @@ tags:
 is featured: true
 event-start-date: 2017-04-29 14:00:00 -04:00
 Location: Upike Benefactors' Plaza, Pikeville, Kentucky 41501
-RSVP-link: https://www.facebook.com/events/636524179891488/
 ---
 
 This is an event for people to stand up for peace, diversity, and love and to stand AGAINST Neo-Nazis and everything they represent.
