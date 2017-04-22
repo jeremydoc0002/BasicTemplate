@@ -23,12 +23,3 @@ Please join us on the afternoon of Saturday April 29th to peacefully and joyfull
 Please note that the Neo-Nazis from the Traditional Worker's Party plan to wear black dress shirts, black pants, black boots and aviator sunglasses to their event. In order to help our attendees stand apart from them, please wear bright, colorful clothing and big smiles.
 
 Many thanks to JJ Waters for his amazing original artwork for our poster! A version without text is available in the comments below for anyone who wants to use the image for posters at the rally.
-
-TO GET INVOLVED CONTACT: 
-Event Coordinators for Contacting: 
-Donations/Finance: Raabia Wazir
-Religious Groups/Groups/Speakers: Christian Marcum
-Media/Public Relations: Ariana Velasquez
-Music/Booking/Concert: Daryl Amburgey
-Volunteering: Daryl Amburgey or Ariana Velasquez or Christian Marcum 
-Merch and Businesses : Ariana Velasquez or Christian Marcum
