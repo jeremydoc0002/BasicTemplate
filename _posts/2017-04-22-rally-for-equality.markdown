@@ -2,8 +2,8 @@
 title: Rally for Equality and American Vallues
 date: 2017-04-22 16:35:00 -04:00
 categories:
-- Rally
 - action
+- event
 tags:
 - Rally for Equality
 is featured: true
