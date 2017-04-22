@@ -10,7 +10,7 @@ call-script-text: |-
   [Example Link](http://example.com) Hi, my name is `____`, I'm a local constituent. My zip code is `___`. I want Representative Thomas Massie to schedule a Town Hall meeting so that we may voice our concerns about the current administrations direction. It is our right to be heard and his duty as a congressman to hear us out!
   ...
 event-start-date: 2017-04-22 00:00:00 -04:00
-event-end-date: 2017-04-22 00:00:00 -04:00
+event-end-date: 2018-04-22 00:00:00 -04:00
 ---
 
 [Example Link](http://example.com) Today's Daily Action is to call Congressman Massie and demand he hold a Town Hall.
