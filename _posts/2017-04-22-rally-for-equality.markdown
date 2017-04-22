@@ -7,7 +7,7 @@ categories:
 tags:
 - Rally for Equality
 is featured: true
-event-start-date: 2029-01-01 00:00:00 -05:00
+event-start-date: 2017-04-29 14:00:00 -04:00
 Location: Upike Benefactors' Plaza, Pikeville, Kentucky 41501
 RSVP-link: https://www.facebook.com/events/636524179891488/
 ---
