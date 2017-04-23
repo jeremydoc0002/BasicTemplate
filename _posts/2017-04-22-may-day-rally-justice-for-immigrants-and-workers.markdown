@@ -28,11 +28,11 @@ National Nurses Union
 SEIU Local 1
 UFCW Local 75
 
-- - - 
+---
 
-May 1st is May Day, a day for workers throughout the world. It commemorates the 1886 national strike for the eight-hour work day in the United States.* If you work for wages, this is your day! 
+May 1st is May Day, a day for workers throughout the world. It commemorates the 1886 national strike for the eight-hour work day in the United States.\* If you work for wages, this is your day!
 
-We are the vast majority, the 99%, and we will rally in solidarity with one another, across artificial boundaries meant to keep us divided and weak. Our common cause is a demand for justice, equity, and a humane and rational sharing of the fruits of labor. Our nation is far from "broke," poverty is not inevitable, and workers need not agree to compete against each other for crumbs from an abundant table set for billionaires and millionaires in the richest country in the world. 
+We are the vast majority, the 99%, and we will rally in solidarity with one another, across artificial boundaries meant to keep us divided and weak. Our common cause is a demand for justice, equity, and a humane and rational sharing of the fruits of labor. Our nation is far from "broke," poverty is not inevitable, and workers need not agree to compete against each other for crumbs from an abundant table set for billionaires and millionaires in the richest country in the world.
 
 United and empowered we can fight against multiple assaults on workers' dignity and livelihoods, such as:
 
@@ -54,4 +54,3 @@ Fight for $15!
 Build schools, not walls!
 Equal rights for all!
 No one is illegal!
-  
