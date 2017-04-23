@@ -1,6 +1,10 @@
 ---
 title: Bringing the Town Hall To Rep. Massie Protest
 date: 2017-04-22 20:26:00 -04:00
+categories:
+- event
+tags:
+- Town Hall Protest
 is featured: true
 event-start-date: 2017-04-28 17:00:00 -04:00
 Location: 486 Helton Rd. Williamstown, KY 41097
