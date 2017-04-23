@@ -1,6 +1,7 @@
 ---
 title: May Day Rally - Justice for Immigrants & Workers
 date: 2017-04-22 20:49:00 -04:00
+published: false
 categories:
 - event
 tags:
