@@ -6,7 +6,8 @@ categories:
 tags:
 - May Day Rally
 is featured: true
-event-end-date: 2017-05-01 18:00:00 -04:00
+event-start-date: 2017-05-01 18:00:00 -04:00
+event-end-date: 2017-05-01 20:00:00 -04:00
 Location: Washington Park 1230 Elm St, Cincinnati 45202
 ---
 
