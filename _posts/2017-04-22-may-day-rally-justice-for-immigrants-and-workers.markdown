@@ -9,6 +9,7 @@ is featured: true
 event-start-date: 2017-05-01 18:00:00 -04:00
 event-end-date: 2017-05-01 20:00:00 -04:00
 Location: Washington Park 1230 Elm St, Cincinnati 45202
+layout: media-grid
 ---
 
 Join us on May 1st to rally for our rights as workers and immigrants!
