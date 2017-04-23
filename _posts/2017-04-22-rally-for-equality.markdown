@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - Rally for Equality
-is featured: true
+is featured: false
 event-start-date: 2017-04-29 14:00:00 -04:00
 Location: Upike Benefactors' Plaza, Pikeville, Kentucky 41501
 ---
