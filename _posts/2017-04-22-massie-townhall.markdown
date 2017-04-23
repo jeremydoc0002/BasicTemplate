@@ -19,10 +19,4 @@ Because MoCs can’t possibly meet individually with all their constituents, the
 
 Now, some MoCs find the prospect of a town hall, or even a large group meeting, pretty scary. If they handle a controversial policy question or a heartfelt personal story poorly, a whole lot of people are going to hear about it. But, once again, that’s their job. As a constituent, you deserve opportunities to share your views and personal stories about how policy affects your lives with your representative. And you also deserve opportunities to hear directly from your MoC about where they stand on the issues you care about. An MoC who’s carefully tailoring their appearances to avoid hearing from people who disagree with them is an MoC who’s not doing their job.
 
-[www.indivisibleguide.com](https://www.indivisibleguide.com/resource/missing-members-action-plan/)
-
-<div class="btn-group" role="group" aria-label="...">
-  <button type="button" class="btn btn-default">Left</button>
-  <button type="button" class="btn btn-default">Middle</button>
-  <button type="button" class="btn btn-default">Right</button>
-</div>
+<a href="https://www.indivisibleguide.com/resource/missing-members-action-plan/" class="btn btn-primary btn-lg active" role="button">indivisibleguide.com</a>
