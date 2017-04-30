@@ -1,6 +1,10 @@
 ---
 title: Bringing the Town Hall To Rep. Massie
 date: 2017-04-30 17:10:00 -04:00
+categories:
+- Town Hall
+tags:
+- Massie Town Hall Protest
 ---
 
 Rep. Thomas Massie was scheduled to speak inside of the Kentucky Farm Bureau Building at a Republican Party paid event. Congressman Massie has repeatedly denied his constituents' phone calls, emails, and faxes requesting a public Town Hall event to discuss the issues, so we decided to bring the event to him. Massie arrived at his speaking event 1 hour early to avoid those who showed up to demand he have a Town hall and speak with all his constituents. We recorded the speakers and we appreciate their courage to speak.
