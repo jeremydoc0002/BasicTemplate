@@ -1,6 +1,10 @@
 ---
 title: Senator Mitch McConnell
 date: 2017-02-03 21:01:00 -05:00
+categories:
+- Senate Representative
+tags:
+- Mitch McConnell
 phone-numbers:
   Fort Wright Office: "(859)-578-0188"
   DC Office: "(202)-224-2541"
