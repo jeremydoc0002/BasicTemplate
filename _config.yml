@@ -11,9 +11,6 @@ collections:
   successes:
     title: Successes
     output: true
-  test-collection:
-    title: Test collection
-    output: true
   uploads:
     title: Uploads
     output: true
