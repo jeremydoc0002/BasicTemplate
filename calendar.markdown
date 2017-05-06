@@ -1,10 +1,9 @@
 ---
 title: Calendar
 date: 2017-02-15 19:36:00 -05:00
-published: false
 position: 4
-Key: 
+embed-code: 
 Field name: 
-layout: event
+layout: calendar
 ---
 
