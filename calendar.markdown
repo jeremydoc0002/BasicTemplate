@@ -7,4 +7,3 @@ Field name:
 layout: calendar
 ---
 
-https://calendar.google.com/calendar/ical/g6vs0vta9kctamdps323ssn0vc%40group.calendar.google.com/public/basic.ics
