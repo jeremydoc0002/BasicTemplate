@@ -7,4 +7,3 @@ Field name:
 layout: event
 ---
 
-Hello events
