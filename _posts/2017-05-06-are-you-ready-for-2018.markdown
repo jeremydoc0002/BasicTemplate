@@ -1,6 +1,7 @@
 ---
 title: Are You Ready for 2018
 date: 2017-05-06 19:39:00 -04:00
+published: false
 categories:
 - civic engagement
 - government
