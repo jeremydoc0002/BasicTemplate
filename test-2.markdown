@@ -3,6 +3,13 @@ title: Test 2
 date: 2017-05-05 14:23:00 -04:00
 ---
 
+<script type='text/javascript'>                    
+	var divElement = document.getElementById('viz1494120236531');                    
+	var vizElement = divElement.getElementsByTagName('object')[0];                    
+	vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+	var scriptElement = document.createElement('script');                    
+	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+	vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 <div class='tableauPlaceholder' id='viz1494120236531' style='position: relative'>
 	<noscript>
 	<a href='#'><img alt='Registration Breakdown ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Vo&#47;VoterDataDist4&#47;RegistrationBreakdown&#47;1_rss.png' style='border: none' /></a>
