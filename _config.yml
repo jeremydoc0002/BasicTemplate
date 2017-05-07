@@ -2,12 +2,12 @@
 title: Indivisible KY District 4
 timezone: America/New_York
 collections:
+  representatives:
+    title: MoCs Contact Information
+    output: false
   posts:
     title: Posts
     output: true
-  representatives:
-    title: Representatives
-    output: false
   successes:
     title: Successes
     output: true
