@@ -2,7 +2,7 @@
 title: Demand a Independent Prosecutor
 date: 2017-05-14 18:56:00 -04:00
 call-script-text: |-
-  # For Rand Paul or Mitch McConnell
+  ### For Rand Paul or Mitch McConnell
 
   I'm shell-shocked that Trump would fire the FBI Director who was leading an investigation into Trump's ties to Russia. Regardless of who you voted for or what you think of James Comey, his firing is an attack on American values and our democracy. **Will you choose patriotism over party, and promise to block all judicial and Department of Justice nominees until an independent law enforcement investigator is appointed?**
 
@@ -13,7 +13,7 @@ call-script-text: |-
   Trump firing the FBI Director one week after Comey asked for more resources to investigate Russian interference reeks of obstruction of justice. We need to get to the truth of Russia’s involvement in the 2016 election, and what involvement Trump or his associates had in Russia’s interference. **Will you commit to block any judicial and Department of Justice nominees until an independent law enforcement investigator is appointed?**
 ---
 
-# DEMAND YOUR SENATORS SUPPORT AN INDEPENDENT LAW ENFORCEMENT INVESTIGATION INTO RUSSIAN INTERFERENCE IN THE 2016 U.S. ELECTION
+### DEMAND YOUR SENATORS SUPPORT AN INDEPENDENT LAW ENFORCEMENT INVESTIGATION INTO RUSSIAN INTERFERENCE IN THE 2016 U.S. ELECTION
 
 Congress has the power to create a special commission to conduct an investigation that is truly independent, bipartisan, and unbiased. It should do so immediately.
 
@@ -33,7 +33,7 @@ The American people deserve the full story behind Russian interference in the 20
 
 * Triggered personal investigations by the House Committee on Ethics; and
 
-* Quit the investigation under intense public pressure.\
+* Quit the investigation under intense public pressure.\\
 
   Nor can the American people trust Trump officials, who themselves may also be subjects of the investigation, to impartially scrutinize the situation. Others advising the White House on ongoing relations with Russia have:
 
@@ -48,7 +48,6 @@ The American people deserve the full story behind Russian interference in the 20
 
 * Requested immunity.
 
-
 UPDATE:
 
 Most recently, Trump dismissed FBI Director James Comey who was tasked with investigating Russian interference in last year’s presidential elections. Trump cited Comey’s handling of his investigation into Secretary Clinton’s e-mail during the 2016 election and Comey’s mishandling of testimony before Congress on that topic. However, Trump’s timing is suspect. And now, after firing Comey, Trump will appoint a new FBI Director to look into his Administration’s connections with Russia.
@@ -59,9 +58,9 @@ At this point, the connections between the Trump team and Russia create a tangle
 
 ![Trump-His-Teams-Ties-to-Russia-4-4-1024x768.png](/uploads/Trump-His-Teams-Ties-to-Russia-4-4-1024x768.png)
 
-Graphic Source: [https://swalwell.house.gov/issues/russia-trump-his-administration-s-ties](Graphic Source: https://swalwell.house.gov/issues/russia-trump-his-administration-s-ties)
+Graphic Source: \[https://swalwell.house.gov/issues/russia-trump-his-administration-s-ties\](Graphic Source: https://swalwell.house.gov/issues/russia-trump-his-administration-s-ties)
 
-## **CONGRESSIONAL COMMITTEES CANNOT BE TRUSTED**
+### **CONGRESSIONAL COMMITTEES CANNOT BE TRUSTED**
 
 For months now, Trump officials and Republican MoCs in both the House and Senate have wasted the American people’s time with their mishandling of the investigation into Russian interference in the 2016 U.S. election.
 
@@ -70,14 +69,10 @@ Even after hearing damning testimony, Senate Republicans have failed to take thr
 The House has had its own problems investigating the Trump Administration’s ties to Russia. Rep. Devin Nunes (R-CA), chairman of the House Intelligence Committee and a former member of the Trump transition team violated [established protocols](http://www.vox.com/policy-and-politics/2017/3/29/15096442/house-intelligence-committee-devin-nunes-trump-wiretapping-obama) and broke congressional norms. He was lambasted by Democrats and Republicans [alike](http://thehill.com/homenews/house/326184-first-gop-lawmaker-calls-for-nunes-to-recuse-himself) for his unusual behavior. Finally, after announcement by the Ethics Committee that Nunes “may have made unauthorized disclosures of classified information,” Nunes temporarily recused himself from the the investigation into Russia. And now the House Committee on Ethics is conducting its own investigation—into the questionable actions of Rep. Nunes.***\
 The American people deserve better.***
 
-## **THE SENATE SHOULD BLOCK ALL JUDICIAL AND DEPARTMENT OF JUSTICE NOMINEES UNTIL THERE IS AN INDEPENDENT LAW ENFORCEMENT INVESTIGATION**
+### **THE SENATE SHOULD BLOCK ALL JUDICIAL AND DEPARTMENT OF JUSTICE NOMINEES UNTIL THERE IS AN INDEPENDENT LAW ENFORCEMENT INVESTIGATION**
 
 We need an independent law enforcement investigation, not a sham investigation by a partisan Congress or a Trump FBI. The Trump Administration has many slots it wants to fill for new judges and Department of Justice political appointees--including the head of the FBI. Department of Justice and judicial confirmations must stop until an independent law enforcement investigator, like a special prosecutor, is appointed. Our democracy demands nothing less.
 
-## **WHAT YOU CAN DO DURING RECESS**
+### **WHAT YOU CAN DO DURING RECESS**
 
 Demand that your Senators block all judicial and Department of Justice nominations until an independent law enforcement investigator is appointed. Ask them directly in town halls or public events, visit their district offices, and make calls requesting that they hold these nominations.
-
-## **SAMPLE TOWN HALL OR OFFICE VISIT QUESTIONS**
-
-*ALWAYS try to incorporate a personal story when speaking with your MoCs. *Below are sample questions for your MoCs on the Trump campaign’s ties with Russia:
