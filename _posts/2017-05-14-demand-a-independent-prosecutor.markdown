@@ -58,7 +58,7 @@ At this point, the connections between the Trump team and Russia create a tangle
 
 ![Trump-His-Teams-Ties-to-Russia-4-4-1024x768.png](/uploads/Trump-His-Teams-Ties-to-Russia-4-4-1024x768.png)
 
-Graphic Source: \[https://swalwell.house.gov/issues/russia-trump-his-administration-s-ties\](Graphic Source: https://swalwell.house.gov/issues/russia-trump-his-administration-s-ties)
+Graphic Source: \[https://swalwell.house.gov/issues/russia-trump-his-administration-s-ties\]
 
 ### **CONGRESSIONAL COMMITTEES CANNOT BE TRUSTED**
 
