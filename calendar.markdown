@@ -7,3 +7,4 @@ Field name:
 layout: calendar
 ---
 
+It's difficult to keep up with everything that is happening in our district and in Washington. Here are some calendars to keep track of what going on.
