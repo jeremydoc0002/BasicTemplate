@@ -5,9 +5,3 @@ published: false
 layout: page
 ---
 
-
-        </article>
-
-</div>
-
-        </section>
