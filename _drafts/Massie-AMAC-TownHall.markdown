@@ -1,6 +1,10 @@
 ---
 title: Massie on Healthcare Reform
 date: 2017-05-19 12:25:00 -04:00
+categories:
+- government
+tags:
+- Healthcare Reform
 main-image: "/uploads/repSolutions.jpg"
 ---
 
