@@ -7,6 +7,9 @@ categories:
 tags:
 - Healthcare Reform
 main-image: "/uploads/repSolutions.jpg"
+embed-code:
+  Key: <iframe width="560" height="315" src="https://www.youtube.com/embed/2HuQ5_XSmto"
+    frameborder="0" allowfullscreen></iframe>
 ---
 
 ## Congressman Massie's Support for Repeal of the A.C.A is clear. His support for Replacing it is not clear.
