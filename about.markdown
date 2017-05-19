@@ -5,6 +5,8 @@ position: 2
 image: "/uploads/facebookPic.jpg"
 ---
 
+![facebookPic.jpg](/uploads/facebookPic.jpg)
+
 ### Who We Are
 
 Indivisible NKY District 4 is a group of everyday, grassroots activists formed to resist the Trump agenda and support elected officials and candidates who enact policies of inclusion, equality, transparency, and honesty in government.
