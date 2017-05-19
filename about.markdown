@@ -1,7 +1,6 @@
 ---
 title: About
 date: 2017-05-05 14:24:00 -04:00
-published: false
 position: 2
 ---
 
@@ -12,6 +11,8 @@ Indivisible NKY District 4 is a group of everyday, grassroots activists formed t
 ## What We Do
 
 Indivisible NKY District 4 monitors the activities of our Members of Congress — Rep. Thomas Massie, Sen. Mitch McConnell, and Sen. Rand Paul— and how they respond to the Trump agenda. When our MoCs act in a manner that is in opposition to our core beliefs, we make sure they are aware of our dissatisfaction. We visit their local offices, we call their staff, we send emails, we mail postcards, we demand town meetings, we organize rallies, we march. In all these ways, we make sure they hear us, and we remind them they serve at our pleasure.
+
+## Guidelines
 
 We adhere to the principles of coordination, focus, and persistence outlined in an online political action manual written by a group of former congressional called: Indivisible: A Practical Guide for Resisting the Trump Agenda. Since its publication in December, over 7,500 local Indivisible groups—at least two in every Congressional district in the country—are putting its advice into action.
 
