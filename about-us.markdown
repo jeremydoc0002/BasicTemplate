@@ -5,6 +5,8 @@ position: 2
 image: "/uploads/facebookPic.jpg"
 ---
 
+![facebookPic.jpg](/uploads/facebookPic.jpg)
+
 ### Who We Are
 
 We are a grassroots organization that is an organically-formed and locally-led group. We work together to support mutual respect, tolerance, and kindness; to hold Congress accountable and advocate for political, social, and economic equality. We believe that our government has a responsibility to promote the rights and welfare of all citizens, regardless of race, religion, gender, or sexual orientation and that government should make laws that are good for everyone. **We stand Indivisible**.
