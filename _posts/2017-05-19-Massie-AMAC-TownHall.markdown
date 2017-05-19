@@ -11,7 +11,6 @@ main-image: "/uploads/repSolutions.jpg"
 
 ## Congressman Massie's Support for Repeal of the A.C.A is clear. His support for Replacing it is not clear.
 
-
 We found out Thomas Massie was having a Town Hall at the Erlanger Public library. We were able to join and get some video. You may have to listen closely as the audio isn't spectacular. We are not professionals and everything was shot on a smart phone but we hope this will help everyone understand Congressman Massie's position on healthcare.
 
 In the video Congressman Massie describes how he would approach healthcare reform. He describes splitting healthcare reform into 3 different pieces:
@@ -24,4 +23,4 @@ In the video Congressman Massie describes how he would approach healthcare refor
 
 Congressman Massie indicates he would support the repeal piece and the Medicare reform piece but not the replace piece. He goes on to describe how there would need to be Democratic support for a replacement, however, it is unclear if he actually supports replacing the A.C.A at sometime in the future..
 
-To his credit he does address the cost of healthcare and the need to bring prices down. Though the reason he gives for the cost is debatable and the means by which we can bring down the price. You will hear him describe a scenario where he had spoken CEO of the company that make Epipens. He points out the cost of an Epipen is about $300. Congressman Massie then describes a conversation with another Congressman who is a Veterinarian. Massie describes how much it costs to actually make Epinehrine, and how much the Congressman / Veterinarian charges.
+Massie also talks about the cost of healthcare and the need to bring prices down. You will hear him describe a scenario where he had spoken CEO of the company that make Epipens. He points out the cost of an Epipen is about $300. Congressman Massie then describes a conversation with another Congressman who is a Veterinarian. Massie tells how much it costs to actually make Epinehrine, and how much the Congressman / Veterinarian charges.
