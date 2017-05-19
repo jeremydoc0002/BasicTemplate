@@ -1,8 +1,8 @@
 ---
-title: About Us1
+title: About Us
 date: 2017-05-05 14:23:00 -04:00
-published: false
 position: 2
+image: "/uploads/facebookPic.jpg"
 ---
 
 ### Who We Are
