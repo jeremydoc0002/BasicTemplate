@@ -1,7 +1,6 @@
 ---
 title: Massie on Healthcare Reform
 date: 2017-05-19 12:25:00 -04:00
-published: false
 categories:
 - government
 tags:
@@ -10,6 +9,8 @@ main-image: "/uploads/repSolutions.jpg"
 ---
 
 ## Congressman Massie's Support for Repeal of the A.C.A is clear. His support for Replacing it is not clear.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2HuQ5_XSmto" frameborder="0" allowfullscreen></iframe>
 
 We found out Thomas Massie was having a Town Hall at the Erlanger Public library. We were able to join and get some video. You may have to listen closely as the audio isn't spectacular. We are not professionals and everything was shot on a smart phone but we hope this will help everyone understand Congressman Massie's position on healthcare.
 
