@@ -20,7 +20,7 @@ In the video Congressman Massie describes how he would approach healthcare refor
 
 2. Replace Piece
 
-3. Medicare Reform Piece
+3. Medicaid Reform Piece
 
 Congressman Massie indicates he would support the repeal piece and the Medicare reform piece but not the replace piece. He goes on to describe how there would need to be Democratic support for a replacement, however, it is unclear if he actually supports replacing the A.C.A at sometime in the future..
 
