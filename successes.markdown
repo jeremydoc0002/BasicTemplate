@@ -5,4 +5,3 @@ position: 4
 layout: media-grid
 ---
 
-![gavel.jpg](/uploads/gavel.jpg)
