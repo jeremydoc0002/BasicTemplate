@@ -8,6 +8,8 @@ tags:
 is featured: true
 ---
 
+<a class="embedly-card" href="http://kypolicy.org/many-kentucky-workers-gained-insurance-medicaid-expansion-now-risk/">Many Kentucky Workers Have Gained Insurance through the Medicaid Expansion and Are Now at Risk - KY Policy</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
 <a class="embedly-card" href="http://kypolicy.org/trump-budget-proposal-mean-kentucky/">What Trump Budget Proposal Would Mean for Kentucky - KY Policy</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 <a class="embedly-card" href="http://kypolicy.org/impact-2017-general-assembly-kentucky-state-budget/">The Impact of the 2017 General Assembly on the Kentucky State Budget - KY Policy</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
