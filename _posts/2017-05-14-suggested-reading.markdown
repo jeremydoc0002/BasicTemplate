@@ -5,6 +5,7 @@ categories:
 - civic engagement
 tags:
 - Articles
+is featured: true
 ---
 
 <a class="embedly-card" href="http://kypolicy.org/trump-budget-proposal-mean-kentucky/">What Trump Budget Proposal Would Mean for Kentucky - KY Policy</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
