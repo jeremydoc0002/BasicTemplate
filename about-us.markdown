@@ -2,7 +2,6 @@
 title: About Us
 date: 2017-05-05 14:23:00 -04:00
 position: 2
-main-image: "/uploads/facebookPic.jpg"
 ---
 
 ### Who We Are
