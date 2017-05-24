@@ -1,6 +1,7 @@
 ---
 title: Special Counsel Appointed
 date: 2017-05-17 22:26:00 -04:00
+main-image: "/uploads/gavel.jpg"
 ---
 
 ### THE SEARCH FOR THE TRUTH: OPTIONS FOR INVESTIGATING TRUMP’S OBSTRUCTION
