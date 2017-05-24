@@ -2,7 +2,7 @@
 title: Suggested Reading
 date: 2017-05-14 18:56:00 -04:00
 categories:
-- KY Policy
+- civic engagement
 tags:
 - Articles
 ---
