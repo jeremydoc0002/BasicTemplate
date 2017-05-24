@@ -6,13 +6,18 @@
   <body>
 
     {% include header.html %}
-
-    <main class="page-content" aria-label="Content">
+    
+<div class = container>
+  <div class = "row">
+    
+    <div class = "col-md-8"><main class="page-content" aria-label="Content">
 
         {{ content }}
 
-    </main>
-
+    </main></div>
+    <div class = "col-md-4"><a class="twitter-timeline" href="https://twitter.com/IndivisibleNKY4">Tweets by IndivisibleNKY4</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+   </div> 
+</div>
     {% include footer.html %}
 
   </body>
