@@ -11,6 +11,9 @@ collections:
   successes:
     title: Successes
     output: true
+  suggested-reading:
+    title: Suggested Reading
+    output: true
   uploads:
     title: Uploads
     output: true
