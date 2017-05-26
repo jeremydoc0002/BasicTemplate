@@ -14,6 +14,9 @@ collections:
   suggested-reading:
     title: Suggested Reading
     output: true
+  test-collection:
+    title: Test collection
+    output: true
   uploads:
     title: Uploads
     output: true
