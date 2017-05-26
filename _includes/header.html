@@ -9,6 +9,9 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav d-flex flex-nowrap">
           {% assign sorted_pages = site.pages | sort:"position" %}
+          
+          
+          <!--
           {% for my_page in sorted_pages %}
            {% if my_page.title %}
             <li class="nav-item {% if my_page.url contains "become" %}join-btn ml-auto{% endif %}" {% if my_page.url contains "become" %}style="order: 3;"{% endif %}>
@@ -16,7 +19,7 @@
             </li>
            {% endif %}
           {% endfor %}
-
+          -->
           <li class="nav-item"><a class="nav-link" href="mailto:{{ site.email }}">Contact</a></li>
 
           {% if site.twitter_username %}
