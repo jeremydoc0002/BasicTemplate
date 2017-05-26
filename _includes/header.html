@@ -7,15 +7,22 @@
 
     <a class="navbar-brand" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
     <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="navbar-nav d-flex flex-nowrap">
-          {% assign sorted_pages = site.pages | sort:"position" %}
-          {% for my_page in sorted_pages %}
-           {% if my_page.title %}
-            <li class="nav-item {% if my_page.url contains "become" %}join-btn ml-auto{% endif %}" {% if my_page.url contains "become" %}style="order: 3;"{% endif %}>
-              <a class="nav-link {% if my_page.url contains "become" %}btn btn-danger text-white {% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            </li>
-           {% endif %}
-          {% endfor %}
+        <ul>
+  {% for page in site.pages %}
+  <li>
+    <a href="{{page.url}}"{% if page.url == url %} class="is-current-page"{% endif %}>{{page.title}}</a>
+    {% if page.pages.size > 0 %}
+    <ul>
+      {% for subpage in page.pages %}
+        <li>
+          <a href="{{subpage.url}}"{% if subpage.url == url %} class="is-current-page"{% endif %}>{{subpage.title}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
 
           <li class="nav-item"><a class="nav-link" href="mailto:{{ site.email }}">Contact</a></li>
 
