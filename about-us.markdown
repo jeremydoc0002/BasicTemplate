@@ -4,7 +4,7 @@ date: 2017-05-05 14:23:00 -04:00
 position: 4
 ---
 
-### Mission Statement
+### MISSION STATEMENT
 
 Indivisible NKY District 4 is a group of local progressive grassroots activists working to build a better Kentucky by holding our elected officials accountable. We will resist all political administrations and agendas which do not support and enact policies of inclusion, equality, justice, transparency, and honesty in government.
 
