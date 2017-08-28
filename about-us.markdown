@@ -4,32 +4,11 @@ date: 2017-05-05 14:23:00 -04:00
 position: 4
 ---
 
-### Who We Are
+### Mission Statement
 
-We are a grassroots organization that is an organically-formed and locally-led group. We work together to support mutual respect, tolerance, and kindness; to hold Congress accountable and advocate for political, social, and economic equality. We believe that our government has a responsibility to promote the rights and welfare of all citizens, regardless of race, religion, gender, or sexual orientation and that government should make laws that are good for everyone. **We stand Indivisible**.
-**We support**
+Indivisible NKY District 4 is a group of local progressive grassroots activists working to build a better Kentucky by holding our elected officials accountable. We will resist all political administrations and agendas which do not support and enact policies of inclusion, equality, justice, transparency, and honesty in government.
 
-* Freedom of speech and of the press
-
-* Economic opportunity for everyone
-
-* A rational defense policy
-
-* Affordable health care for all
-
-* Religious liberty for all
-
-* Responsible stewardship of our planet
-
-* Common sense tax reform that does not favor the wealthy
-
-**We reject**
-
-* Racism, authoritarianism, and corruption
-
-* MoCs (members of Congress) who ignore reality and make up their own facts
-
-* Scare tactics and slander
+The primary goal of INKYD4 is to be a progressive voice of the people of Northern Kentucky.  It is our mission to scrutinize the actions of our political representatives at all levels of government and publicize the impact of those actions to the people in our communities. We strive to hold our representatives accountable when they choose their party, their donors, or their ideologies over their own constituents’ needs. Our overall goal is to move Kentucky forward both socially and politically and ensure that all constituents are represented fairly, that ALL sides are heard. We are working to effectively mobilize the vote in like-minded citizens in upcoming elections knowing that true change will come with a change in representation. **Individually, the concerns of many constituents of the 4th district are being ignored. United, our voice is strong....Indivisible we stand.**
 
 **We are locally focused and practice congressional advocacy to protect our values through:**
 
