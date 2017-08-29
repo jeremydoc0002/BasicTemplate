@@ -2,7 +2,7 @@
 title: Demand Thomas Massie Hold a Town Hall
 date: 2017-04-22 19:11:00 -04:00
 categories:
-- action
+- contact elected officials
 tags:
 - call now
 is featured: false
