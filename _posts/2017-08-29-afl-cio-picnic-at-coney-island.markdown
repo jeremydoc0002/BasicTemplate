@@ -12,4 +12,4 @@ layout: post
 
 Indivisible NKY District 4 is hosting a booth at the annual AFL-CIO picnic at Coney Island on labor day in order to show our support for our local unions, register people to vote, and give the people in our community a chance to learn more about our organization.
 
-If you are interested in volunteering for a two-hour shift, use the[](https://www.facebook.com/events/2019024208123460) link to our Facebook invitation and check out the discussion for instructions on how to sign up.
+If you are interested in volunteering for a two-hour shift, use the [link](https://www.facebook.com/events/2019024208123460) to our Facebook invitation and check out the discussion for instructions on how to sign up.
