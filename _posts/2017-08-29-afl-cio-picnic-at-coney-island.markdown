@@ -8,7 +8,7 @@ event-start-date: 2017-09-04 08:00:00 -04:00
 event-end-date: 2017-09-04 18:00:00 -04:00
 Location: Coney Island
 RSVP-link: https://www.facebook.com/events/2019024208123460
-layout: actions
+layout: post
 ---
 
 Indivisible NKY District 4 is hosting a booth at the annual AFL-CIO picnic at Coney Island on labor day in order to show our support for our local unions, register people to vote, and give the people in our community a chance to learn more about our organization.
