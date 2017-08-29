@@ -5,7 +5,7 @@ categories:
 - civic engagement
 tags:
 - Articles
-is featured: true
+is featured: false
 ---
 
 <a class="embedly-card" href="http://kypolicy.org/many-kentucky-workers-gained-insurance-medicaid-expansion-now-risk/">Many Kentucky Workers Have Gained Insurance through the Medicaid Expansion and Are Now at Risk - KY Policy</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
