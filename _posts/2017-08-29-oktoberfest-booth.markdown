@@ -3,7 +3,7 @@ title: Oktoberfest Booth
 date: 2017-08-29 08:43:00 -04:00
 categories:
 - action
-main-image: "/uploads/celebration-1296396_640-f5bcf0.png"
+main-image: "/uploads/gingerbread-heart-401468_640.jpg"
 RSVP-link: http://www.signupgenius.com/go/4090449a5aa22a4ff2-oktoberfest
 ---
 
