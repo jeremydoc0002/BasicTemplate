@@ -5,7 +5,7 @@ categories:
 - government
 tags:
 - Tax Reform
-is featured: true
+is featured: false
 main-image: "/uploads/taxReform.jpg"
 ---
 
