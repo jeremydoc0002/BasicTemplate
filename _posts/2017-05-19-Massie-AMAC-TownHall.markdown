@@ -4,6 +4,7 @@ date: 2017-05-19 12:25:00 -04:00
 published: false
 categories:
 - government
+- Healthcare
 tags:
 - Healthcare Reform
 is featured: true
