@@ -1,6 +1,7 @@
 ---
 title: BCRA Protest
 date: 2017-08-29 09:18:00 -04:00
+position: 0
 is featured: false
 main-image: "/uploads/BCRA.jpg"
 ---
