@@ -12,7 +12,7 @@ See press coverage from the Cincinnati Enquirer [here](http://www.cincinnati.com
 
 ![protester holds sign EDIT.jpg](/uploads/protester%20holds%20sign%20EDIT.jpg)
 
-![scene from the buidling with mcconnell's office, looking toward dixie highway EDIT.jpg](/uploads/scene%20from%20the%20buidling%20with%20mcconnell's%20office,%20looking%20toward%20dixie%20highway%20EDIT.jpg)
+![Scene from the buidling with McConnell's office, looking toward Dixie Highway-09de84.jpg](/uploads/Scene%20from%20the%20buidling%20with%20McConnell's%20office,%20looking%20toward%20Dixie%20Highway-09de84.jpg)
 
 ![sister mary joyce moeller holds tombstone shapped sign EDIT.jpg](/uploads/sister%20mary%20joyce%20moeller%20holds%20tombstone%20shapped%20sign%20EDIT.jpg)
 
