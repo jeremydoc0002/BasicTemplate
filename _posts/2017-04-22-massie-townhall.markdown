@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - call now
-is featured: true
+is featured: false
 call-script-text: |-
   [Example Link](http://example.com) Hi, my name is `____`, I'm a local constituent. My zip code is `___`. I want Representative Thomas Massie to schedule a Town Hall meeting so that we may voice our concerns about the current administrations direction. It is our right to be heard and his duty as a congressman to hear us out!
   ...
