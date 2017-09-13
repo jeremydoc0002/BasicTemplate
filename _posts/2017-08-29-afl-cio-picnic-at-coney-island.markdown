@@ -1,6 +1,7 @@
 ---
 title: AFL-CIO Picnic at Coney Island
 date: 2017-08-29 08:00:00 -04:00
+published: false
 categories:
 - action
 main-image: "/uploads/Labor%20Day-16fe92.jpg"
