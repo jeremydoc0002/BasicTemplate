@@ -19,4 +19,11 @@ JoAnn Schwartz, from Kentuckians for the Commonwealth also spoke about the speci
 
 The bridge rally was one of several held in local states in support of healthcare rights, including bridge events between Ohio and West Virginia on July 6th and Kentucky and Indiana on July 7th.
 
-
+![19884331_1545292225514971_1312608317823739794_n.jpg](/uploads/19884331_1545292225514971_1312608317823739794_n.jpg)
+![Ann and Roberto.jpg](/uploads/Ann%20and%20Roberto.jpg)
+![19875521_1545292302181630_6337685969058099275_n.jpg](/uploads/19875521_1545292302181630_6337685969058099275_n.jpg)
+![Seth Woods.jpg](/uploads/Seth%20Woods.jpg)
+![19756818_1545292148848312_1358686789806492105_n.jpg](/uploads/19756818_1545292148848312_1358686789806492105_n.jpg)
+![Diana Loh.jpg](/uploads/Diana%20Loh.jpg)
+![19756910_1545292008848326_2990536316408143296_n.jpg](/uploads/19756910_1545292008848326_2990536316408143296_n.jpg)
+![Andrea.jpg](/uploads/Andrea.jpg)
