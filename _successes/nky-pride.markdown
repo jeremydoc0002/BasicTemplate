@@ -1,6 +1,7 @@
 ---
 title: NKY Pride
 date: 2017-09-21 23:56:00 -04:00
+position: 2
 main-image: "/uploads/19029287_10154533133420808_497802955819761211_n.jpg"
 ---
 
