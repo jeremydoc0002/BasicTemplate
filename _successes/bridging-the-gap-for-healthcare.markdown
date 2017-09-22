@@ -1,7 +1,7 @@
 ---
 title: Bridging the Gap for Healthcare
 date: 2017-09-21 23:24:00 -04:00
-position: 1
+position: 2
 main-image: "/uploads/19884462_1545291958848331_5598992915266851547_n-113546.jpg"
 ---
 
