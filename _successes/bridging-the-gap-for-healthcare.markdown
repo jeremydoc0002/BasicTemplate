@@ -1,6 +1,7 @@
 ---
 title: Bridging the Gap for Healthcare
 date: 2017-09-21 23:24:00 -04:00
+main-image: "/uploads/19884331_1545292225514971_1312608317823739794_n-0dac0f.jpg"
 ---
 
 Kentucky, Indiana, and Ohio citizens join together to stand up for Healthcare 
