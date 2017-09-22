@@ -15,5 +15,4 @@ This bill is the worst one yet. Estimates of 32 million people losing their heal
 
 Once again, we must call our elected representatives and literally beg for our lives. We work for the day that we will not have to do this again. As noted, our calls might not have any effect on our particular senators, but simply being able to point to the fact that we did call, that we were not silent, can have an effect in the bigger picture. We’re sick of calling, they are sick of hearing from us. If they want us to stop calling, maybe they should stop trying to take our healthcare away.
 
-MCCONNELL:  KY: 859-578-0188 (Ft. Wright) 859-224-8286 (Louisville) DC: 202-224-2541 
-PAUL:  KY: 270-782-8303 (Bowling Green) DC: 202-224-4343
+Use the contact information on the left to encourage Senator Paul to stick with his no vote this time and to let Senator McConnell know that you are opposed to his support of this bill.
