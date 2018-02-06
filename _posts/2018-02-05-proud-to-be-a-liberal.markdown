@@ -4,7 +4,7 @@ date: 2018-02-05 20:32:00 -05:00
 ---
 
 Today, in the context of an insult, I was told that my "conversion to liberalism is complete". Now I will admit that I am fairly "liberal" but I also hold what I believe to be a healthy mix of liberal, conservative and common sense views.
- My question though, is when did being liberal become an insult?
+My question though, is when did being liberal become an insult?
 In 1620, a group of people who were considered fairly liberal for their time embarked on a dangerous and unknown journey into a new world to escape religious persecution and practice religion how they saw fit. 
 In the late 1700's, a group of patriots, largely considered liberal in comparison to their monarch across the Atlantic, sought and gained freedom for the 13 colonies. 
 In the 1850's and 1860's, a group of individuals considered liberal for their time freed the slaves. 
