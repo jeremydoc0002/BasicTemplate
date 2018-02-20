@@ -1,7 +1,7 @@
 ---
 title: Protest Cassidy-Graham Act
 date: 2017-09-22 00:19:00 -04:00
-is featured: true
+is featured: false
 main-image: "/uploads/DIe%20In.jpg"
 ---
 
