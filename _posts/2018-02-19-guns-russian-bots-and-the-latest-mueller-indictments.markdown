@@ -1,6 +1,7 @@
 ---
 title: Guns, Russian Bots, and The Latest Mueller Indictments
 date: 2018-02-19 20:12:00 -05:00
+is featured: true
 ---
 
 All across the United States, articles, videos, and other types of commentary are filling our screens, our print media, and all our other types of social media about gun laws, gun violence, and what went wrong in the case of Nikolas Cruz. Strong opinions are being expressed on both sides about what should be done. Americans protesting across the nation are waving signs and screaming out opinions about what should be done.  Twitter and Facebook are full of outrage. 
