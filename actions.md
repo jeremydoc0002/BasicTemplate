@@ -1,9 +1,8 @@
 ---
 title: Take Action
 position: 1
-main-image: 
-March For Our Lives:
-  Key: 
+main-image: "/uploads/march%20for%20our%20lives.jpg"
+March For Our Lives: 
 layout: actions
 ---
 
