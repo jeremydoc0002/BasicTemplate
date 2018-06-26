@@ -24,4 +24,4 @@ Washington Park
 
 Cincinnati, OH
 
-11:00 AM - 1:00 PM**
+11:00 AM - 1:00 PM**# 
