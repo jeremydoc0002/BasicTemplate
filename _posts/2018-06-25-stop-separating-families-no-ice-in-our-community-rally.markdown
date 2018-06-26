@@ -1,6 +1,7 @@
 ---
 title: Stop Separating Families!  No ICE in our community Rally
 date: 2018-06-25 20:23:00 -04:00
+main-image: "/uploads/separating%20families-48fec5.PNG"
 ---
 
 The Trump administration has accelerated deportations in the last several weeks. Thousands of children have been torn away from their families and warehoused in detention centers.\
