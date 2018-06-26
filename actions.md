@@ -5,4 +5,3 @@ Stop Separating Families:
 layout: actions
 ---
 
-Stop Separating Families
