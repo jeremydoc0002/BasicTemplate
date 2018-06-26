@@ -3,7 +3,6 @@ title: Stop Separating Families! No ICE in our community Rally
 date: 2017-09-21 23:08:00 -04:00
 categories:
 - action
-- event
 tags:
 - Action
 event-start-date: 2018-06-29 11:00:00 -04:00
