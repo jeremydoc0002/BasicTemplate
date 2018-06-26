@@ -5,4 +5,4 @@ Stop Separating Families:
 layout: actions
 ---
 
-[](http:///uploads/separating%20families.PNG)
+[separating families-db6efc.PNG](/uploads/separating%20families-db6efc.PNG)
