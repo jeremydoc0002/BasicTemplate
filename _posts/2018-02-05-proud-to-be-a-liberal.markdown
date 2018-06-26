@@ -1,6 +1,7 @@
 ---
 title: Proud to be a Liberal
 date: 2018-02-05 20:32:00 -05:00
+published: false
 ---
 
 Today, in the context of an insult, I was told that my "conversion to liberalism is complete". Now I will admit that I am fairly "liberal" but I also hold what I believe to be a healthy mix of liberal, conservative and common sense views.
