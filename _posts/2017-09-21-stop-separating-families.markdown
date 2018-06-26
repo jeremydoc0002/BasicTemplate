@@ -7,6 +7,9 @@ categories:
 - contact elected officials
 tags:
 - Action
+event-start-date: 2018-06-29 11:00:00 -04:00
+event-end-date: 2018-06-29 13:00:00 -04:00
+Location: Washington Park - 1230 W. Elm St, Cincinnati, OH
 ---
 
 The Trump administration has accelerated deportations in the last several weeks. Thousands of children have been torn away from their families and warehoused in detention centers.
