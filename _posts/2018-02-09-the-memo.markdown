@@ -1,6 +1,7 @@
 ---
 title: The Memo
 date: 2018-02-09 19:52:00 -05:00
+published: false
 ---
 
 In the United States, we have always believed in the importance of letting criminal investigations run their course. Donald Trump is doing everything he can to impede the Russia investigation. Devin Nunes and Republicans in the House Intelligence Committee are helping him. As you probably know, seven Republicans in the committee voted last week to release Devin Nunes' memo alleging surveillance abuses by the Department of Justice and, in particular, by the FBI. This release followed several days of the surging hashtag, #ReleaseTheMemo, which was backed by multiple Russian bots, by the way. The Memo, as it has come to be called, has been revered by Republicans as though it were key evidence pulled from a vast network of material. It was written by Devin Nunes’ office. It’s an opinion piece and pulls isolated pieces of information from various places in a FISA warrant renewal application and implies a conspiracy around them.
