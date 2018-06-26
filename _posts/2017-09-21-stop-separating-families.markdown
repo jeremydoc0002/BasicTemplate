@@ -14,3 +14,4 @@ The Trump administration has accelerated deportations in the last several weeks.
 Join us for a coordinated national day of action to call for an end to the Trump administration’s family separation policy and for an end of ICE’S terror in our communities.
 
 No human being is illegal! Ningun ser humano es ilegal!
+Posted Jun 25, 2018
