@@ -16,8 +16,8 @@ Join us for a coordinated national day of action to call for an end to the Trump
 
 No human being is illegal! Ningun ser humano es ilegal!
 
-**Saturday June 29th
-Washington Park
-1230 W. Elm St
-Cincinnati, OH
+**Saturday June 29th\n
+Washington Park\n
+1230 W. Elm St\n
+Cincinnati, OH\n
 11:00 AM - 1:00 PM**
