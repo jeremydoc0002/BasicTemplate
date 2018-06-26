@@ -1,7 +1,7 @@
 ---
 title: Take Action
 position: 1
-Stop Separating Families: "/uploads/separating%20families.PNG"
+Stop Separating Families: 
 layout: actions
 ---
 
