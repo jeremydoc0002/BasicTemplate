@@ -5,5 +5,4 @@ Stop Separating Families:
 layout: actions
 ---
 
- 
-
+[](http:///uploads/separating%20families.PNG)
