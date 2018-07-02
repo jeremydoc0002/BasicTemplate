@@ -7,6 +7,7 @@ tags:
 - Action
 is featured: true
 main-image: "/uploads/July4parade.PNG"
+call-script-text: Independence Day parades
 event-start-date: 2018-07-04 11:00:00 -04:00
 event-end-date: 2018-07-04 00:00:00 -04:00
 Location: Various towns around District 4
