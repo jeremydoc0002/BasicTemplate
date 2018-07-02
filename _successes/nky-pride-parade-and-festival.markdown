@@ -1,7 +1,7 @@
 ---
 title: 2018 NKY Pride Parade and Festival
 date: 2018-07-02 13:42:00 -04:00
-position: 3
+position: 1
 is featured: true
 main-image: "/uploads/pride%20parade.jpg"
 image: "/uploads/pride3.jpg"
