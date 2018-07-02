@@ -1,5 +1,5 @@
 ---
-title: Stop Separating Families! No ICE in our community Rally
+title: Independence Day Parades
 date: 2017-09-21 23:08:00 -04:00
 categories:
 - action
