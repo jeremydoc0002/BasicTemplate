@@ -5,23 +5,30 @@ categories:
 - action
 tags:
 - Action
-event-start-date: 2018-06-29 11:00:00 -04:00
-event-end-date: 2018-06-29 13:00:00 -04:00
-Location: Washington Park - 1230 W. Elm St, Cincinnati, OH
+main-image: "/uploads/July4parade.PNG"
+event-start-date: 2018-07-04 11:00:00 -04:00
+event-end-date: 2018-07-04 00:00:00 -04:00
+Location: Various towns around District 4
 ---
 
-The Trump administration has accelerated deportations in the last several weeks. Thousands of children have been torn away from their families and warehoused in detention centers.
+# Independence Day Parades
 
-Join us for a coordinated national day of action to call for an end to the Trump administration’s family separation policy and for an end of ICE’S terror in our communities.
+Join your local progressive candidates as they walk in Independence Day parades this week!  For example:
 
-No human being is illegal! Ningun ser humano es ilegal!
+July 4th -
 
-Saturday June 29th
+#CampbellCounty folks:  Fort Thomas parade - walk with the Campbell County Democrats.  
 
-Washington Park
+Walk behind the party banner or with our candidates who will have groups in the parade: Rachel Roberts, Jason Kilmer and Connie Grubbs. 
 
-1230 W. Elm St
+Wear Campbell/NKY Dems, candidate, or education-theme T-shirts. All ages are welcome and we would LOVE to have kids in their school T-shirts or jerseys. Signs with positive education messages are encouraged.
 
-Cincinnati, OH
+Meet before 10 am near Highlands High School on Memorial Parkway.
 
-11:00 AM - 1:00 PM
+#KentonCounty folks:
+
+We need walkers for the Ft. Mitchell parade for all candidates. Parade line-up is at 11:30 at the orphanage. The parade kicks off at 12:30. Josh Blair, Col Owens, Joshua Ishmael, and Seth Hall will be in this parade. Instead of the Kenton County Democratic party having an entry, this year they are asking for as many volunteers as possible to come walk with their candidates. I know we will have a supply of Seth Hall for Congress shirts that are navy blue with white writing. I assume the other candidates will also have a supply of t-shirts on hand, but in the meantime, wear your red, white, and blue best :) ****Note - Seth will have a hay wagon that can seat 20 - 25 people. We NEED as many bodies as possible. Do NOT feel like you can only participate if you can walk the parade route. We want the wagon filled and walkers on the side who can pass out candy to the crowd. We also want all of the other candidates to be well-supported! The bigger this group is, the more excitement we help generate! There will be music playing from the truck that the hay wagon is hitched to! Kids and adults of all ages welcome!****
+
+July 7th - Independence Parade
+
+We need folks to come out and ride with Seth Hall, Darrell Link, and Josh Joshua Ishmael. Parade line-up is at 2 pm at Summit View Academy. The Independence parade organizers do NOT allow walkers, so everyone has to ride in or on something.
