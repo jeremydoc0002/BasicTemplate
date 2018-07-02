@@ -1,10 +1,11 @@
 ---
-title: Independence Day Parades
+title: Happy Birthday America!
 date: 2017-09-21 23:08:00 -04:00
 categories:
 - action
 tags:
 - Action
+is featured: true
 main-image: "/uploads/July4parade.PNG"
 event-start-date: 2018-07-04 11:00:00 -04:00
 event-end-date: 2018-07-04 00:00:00 -04:00
