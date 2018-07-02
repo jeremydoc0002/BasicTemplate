@@ -2,7 +2,7 @@
 title: Special Counsel Appointed
 date: 2017-05-17 22:26:00 -04:00
 published: false
-position: 0
+position: 4
 is featured: false
 main-image: "/uploads/gavel.jpg"
 ---
