@@ -1,7 +1,7 @@
 ---
 title: Massie Pro-Gun Award Protest
 date: 2018-02-19 20:19:00 -05:00
-position: 0
+position: 1
 is featured: true
 main-image: "/uploads/Massie%20gun%20protest-575cfe.jpg"
 ---
