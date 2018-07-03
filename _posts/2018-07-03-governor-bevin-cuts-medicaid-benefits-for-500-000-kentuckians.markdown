@@ -9,4 +9,7 @@ Gov. Matt Bevin's administration is cutting dental and vision coverage for nearl
 
 The state Cabinet for Health and Family Services calls the cuts an "unfortunate consequence" of Friday's ruling by a federal judge who said Kentucky can't require poor people to get jobs to keep their Medicaid benefits.
 
-Read more here:  https://www.nbcnews.com/politics/politics-news/nearly-500-000-kentucky-losing-vision-dental-coverage-following-medicaid-n888321?cid=sm_npd_nn_fb_ma
+Read more here:  
+<a class="embedly-card" href="http://www.nbcnews.com/politics/politics-news/nearly-500-000-kentucky-losing-vision-dental-coverage-following-medicaid-n888321?cid=sm_npd_nn_fb_ma/">Governor Bevin cuts Medicaid benefits for 500,000 Kentuckians</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+
