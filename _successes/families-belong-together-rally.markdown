@@ -7,3 +7,4 @@ image: "/uploads/families%20Rally2.jpg"
 ---
 
 Groups from NKY (Indivisible NKY District 4, NKY KFTC, NKY JPC) and OH (Together We WIll - Cincinnati/Southwest OH) teamed up in this event as part of the national day of action supported all across the country.  Hundreds of concerned citizens from both Kentucky and Ohio met on the John A. Roebling Suspension bridge to protest immigrant families being separated.
+![families rally3.jpg](/uploads/families%20rally3.jpg)![families Rally2.jpg](/uploads/families%20Rally2.jpg)
