@@ -1,6 +1,8 @@
 ---
 title: Families Belong Together Rally
 date: 2018-06-14 14:05:00 -04:00
+tags:
+- activism
 is featured: true
 main-image: "/uploads/families%20rally%204.jpg"
 image: "/uploads/families%20Rally2.jpg"
