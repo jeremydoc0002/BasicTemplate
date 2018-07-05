@@ -1,7 +1,6 @@
 ---
 title: Action to Comment on cuts to Medicaid benefits
 date: 2017-09-13 01:07:00 -04:00
-published: false
 categories:
 - action
 main-image: "/uploads/govbevin.jpg"
