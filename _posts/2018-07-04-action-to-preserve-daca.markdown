@@ -11,6 +11,7 @@ On July 1st, the Bevin Administration eliminated dental, vision, and non-emergen
 Since then, the Bevin Administration has posted public notice of a State Plan Amendment submitted to the Federal Government, asking for permission to remove these benefits. You can view the notice here:  
 
 <a class="embedly-card" href="https://bit.ly/2KHVuFC/">
+<a class="embedly-card" ">Governor Bevin cuts Medicaid benefits for 500,000 Kentuckians</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 and comment here:
 
