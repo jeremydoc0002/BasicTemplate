@@ -1,6 +1,6 @@
 ---
 title: Volunteer for a local candidate!
-date: 2018-07-04 01:07:00 -04:00
+date: 2018-07-23 01:07:00 -04:00
 categories:
 - action
 is featured: true
