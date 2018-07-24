@@ -13,7 +13,7 @@ Location: Various towns around District 4
 ---
 
 Why We Must Stop Kavanaugh From Becoming Trump’s Next Supreme Court Justice
-[](https://www.indivisible.org/resource/must-stop-kavanaugh-becoming-trumps-next-supreme-court-justice/)
+<a class="https://www.indivisible.org/resource/must-stop-kavanaugh-becoming-trumps-next-supreme-court-justice/">Why we must stop Kavanaugh from becoming the next Supreme Court Justice</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 It’s happened: Trump has announced his nominee to replace Justice Anthony Kennedy on the Supreme Court. On July 9th, Trump nominated Brett Kavanaugh to the Supreme Court and set the stage for a monumental shift in the Court’s makeup. If Trump is successful at getting Kavanaugh confirmed, the Court will work to preserve the Trump agenda for decades to come.
 
