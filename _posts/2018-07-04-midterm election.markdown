@@ -4,11 +4,11 @@ date: 2018-07-04 01:07:00 -04:00
 categories:
 - action
 is featured: true
-main-image: "/uploads/govbevin.jpg"
+main-image: "/uploads/unnamed%20(3).jpg"
 ---
 
+Our goal is to have 100% of our members and followers sign up to volunteer for one or more campaigns in District 4. Have you connected with a campaign yet? If not, let us know whose campaign you would like to help with, and we will connect you! Send us an email at: inkyd4@gmail.com
 
 
-<a class="embedly-card" href="https://docs.google.com/forms/d/e/1FAIpQLSccWvLY8ZjofIYGZI5frMyDMhSSjGIL1JFTYKT7Bwdkst6WPQ/viewform/">Governor Bevin cuts Medicaid benefits for 500,000 Kentuckians</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 
