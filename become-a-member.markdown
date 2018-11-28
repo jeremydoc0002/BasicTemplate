@@ -24,10 +24,10 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   name=\"b_f9c2cc6afe59f21a6e6425312_dce515e7d2\" tabindex=\"-1\" value=\"\"></div>\n
   \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
   id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n<script
-  type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script
-  type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
-  = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var
-  $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
+  type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\"
+  data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"],
+  function(L) { L.start({\"baseUrl\":\"mc.us15.list-manage.com\",\"uuid\":\"d7d9a40f75b05f21267c0fea1\",\"lid\":\"8c9e53d242\",\"uniqueMethods\":true})
+  })</script>\n<!--End mc_embed_signup-->"
 layout: becomeAMember
 ---
 
